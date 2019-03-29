@@ -14,5 +14,5 @@
 - [Backyard aquaponics as self-sustained farm in (sub)urban LA](https://youtu.be/Du6Z8p71eys)
 - [Sweet Potato Betta Tank No filter, No CO2, NO ferts 4.5 Gallon Nano Tank](https://youtu.be/LUp2-DqEfOE)
 - [Internet of Farming: Arduino-based, backyard aquaponics](https://youtu.be/X2wWTadsBDA)
-- [Kimbal Musk's Farm of the Future (Yes, Elon's brother](https://youtu.be/VxRNoSSkLkE)
+- [Kimbal Musk's Farm of the Future - Yes, Elon's brother](https://youtu.be/VxRNoSSkLkE)
 - [Inside a Shipping Container Vertical Hydroponic Farm](https://youtu.be/VxRNoSSkLkE)
