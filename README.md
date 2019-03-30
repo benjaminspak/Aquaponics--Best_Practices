@@ -4,6 +4,20 @@
 - Use goldfish to help keep down mosquito breeding.
 - Tilapia fish prefer temp ~ 80F.
 - Catfish is one of the most temp hearty fish.
+- Use a screen to catch the solid waste from the fishwater outflow.
+- Use `Organic Digester` to help speed up the biome of bateria that break down the fish solids in your grow medium.
+- Buy fish pellets in bulk to save $$$.
+- Use a bag of oyster shells in the fish tank to help balance the water's PH levels.
+- Use `rock dust minerals` to help the yield.
+- Use a `bell syphon valve` to drain the plant bed quicker. It will help prevent over-saturation and root rot.
+
+## Recommended Grow
+
+- Water crest.
+- Kale.
+- Lettuce. Do not put in full sun.
+- Green / Purple Malabar spinach. Perennial - will continuously produce. Will not have to replant.
+- 
 
 ## Resources
 
