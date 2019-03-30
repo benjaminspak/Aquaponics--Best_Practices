@@ -17,10 +17,14 @@
 - Kale.
 - Lettuce. Do not put in full sun.
 - Green / Purple Malabar spinach. Perennial - will continuously produce. Will not have to replant.
-- 
+- Duck weed - Helps clean water and is a supplimental source of food for fish.
 
 ## Resources
 
+- [Miniponics DIY Aquaponics for under 10$](https://youtu.be/WGI6O8FqLtA)
+- [Aquaponics Design | Backyard System for Pat](https://youtu.be/qXtvljDYkfI)
+- [What are the best fish for Aquaponics?](https://youtu.be/ZTzpGREDlfU)
+- [The Key Points of the Water Flow in an Aquaponics System](https://youtu.be/kpyKPT14tVQ)
 - [My 5 Most Profitable Crops](https://youtu.be/CTW0_s8YPOA)
 - [$10,000 a month growing microgreens in a basement!](https://youtu.be/2opU8qMu30o)
 - [Small Scale Aquaponics](https://youtu.be/4DMylpQqVKI)
@@ -30,3 +34,4 @@
 - [Internet of Farming: Arduino-based, backyard aquaponics](https://youtu.be/X2wWTadsBDA)
 - [Kimbal Musk's Farm of the Future - Yes, Elon's brother](https://youtu.be/VxRNoSSkLkE)
 - [Inside a Shipping Container Vertical Hydroponic Farm](https://youtu.be/VxRNoSSkLkE)
+- [How to Build a High-Tunnel Greenhouse](https://youtu.be/GvfDUaKbej0)
